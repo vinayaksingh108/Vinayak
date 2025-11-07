@@ -1,5 +1,5 @@
 # Vinayak
 this is my first GitHub repository
 <br>
-author -Vinayak Singh
+author -Vinayak yadav
 
